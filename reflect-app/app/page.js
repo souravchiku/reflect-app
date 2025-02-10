@@ -7,8 +7,11 @@ export default function Home() {
   
   return (
    <div>
-    <Header/>
+  
     <Button variant="journal">Button</Button>
+
+
+    
    </div>
   );
 }
